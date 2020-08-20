@@ -19,3 +19,4 @@ The Python Apps Which cannot have their own Repository and Instead they are a se
 3. Open Paint: A simple automation script to open paint and type the message "Hello World" on its own on a 1366x788 display.
 4. URL Extract: A Script which fetches out all the links and URL's present in the particular page.
 5. Eye-Protect: A Simple Script Which Runs In The Background of The Computer and Brings Up A Popup Message every 15min to look away from the computer and take a break. It helps from preventing eye problems by taking of the breaks. 
+6. Simple Calculator: A Very Basic Calculator performing very basic functions. For advanced Calculations check out our Repository TechyCalc https://github.com/mrtechtroid/techycalc
