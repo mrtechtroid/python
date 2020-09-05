@@ -41,8 +41,8 @@
 **4. What It Does?** A Very Interactive And Simple temperature Calculator.    
 **5. Contributors:** [AmithS01](https://github.com/AmithS01), [Mrtechtroid](https://github.com/mrtechtroid)   
 ### Automation Instagram Login
-**1. Category:** Automation
-**2. Modules Required:** selenium
-**3. Uploaded On:** Spetember 05, 2020
-**4. What It Does?** It automates the login to instagram.
-**5. How To Use?** Make a file named "logincred.txt" and add your username in first line and password in the next line and then save the file. Then run the program. 
+**1. Category:** Automation  
+**2. Modules Required:** selenium  
+**3. Uploaded On:** Spetember 05, 2020  
+**4. What It Does?** It automates the login to instagram.  
+**5. How To Use?** Make a file named "logincred.txt" and add your username in first line and password in the next line and then save the file. Then run the program.  
