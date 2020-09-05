@@ -1,11 +1,10 @@
 # Python
-The Python Apps Which cannot have their own Repository and Instead they are a set of tools which could be used by anyone.
+They are a set of tools which could be used by anyone. A collection of Python scripts, codes and apps which are some good tools and projects for developers.  
 ## Module's And Library's Required
 1. Modules Required: Urllib, Re , time , sys , datetime, pyautogui ,tkinter , random 
-2. License:  https://github.com/mrtechtroid/python/blob/master/LICENSE
-3. Contributors: Mr Techtroid https://github.com/mrtechtroid
-4. Updated On: 22th August 2020(Indian Standard Time)
-5. Created On: 12th August 2020(IST)
+2. License:  [Click Here](https://github.com/mrtechtroid/python/blob/master/LICENSE)
+3. Updated On: 05th September 2020(Indian Standard Time)
+4. Created On: 12th August 2020(IST)
 ## Index Of Apps
 1. [Amazon Book Price Scraper](https://github.com/mrtechtroid/python/blob/master/DESCRIPTION.md#amazon-book-price-scraper)
 2. [Covid 19 Analytics](https://github.com/mrtechtroid/python/blob/master/DESCRIPTION.md#covid-19-analytics)
