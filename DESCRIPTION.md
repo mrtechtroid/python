@@ -35,8 +35,14 @@
 **3. Uploaded On:** August 20, 2020  
 **4. What It Does?** It sends certain no. of message to Z00M chats in meeting. While using this app you will be given five seconds to maximise the meeting window or else the app may start pasting the things anywhere.  
 ### Simple Temperature Calculator: 
-**1. Category:** Tools
+**1. Category:** Tools  
 **2. Modules Required:** random  
-**3. Uploaded On:** August 21, 2020  
-**4. What It Does?** A Very Interactive And Simple temperature Calculator.   
-**5. Contributors:** [AmithS01](https://github.com/AmithS01), [Mrtechtroid](https://github.com/mrtechtroid)  
+**3. Uploaded On:** August 21, 2020   
+**4. What It Does?** A Very Interactive And Simple temperature Calculator.    
+**5. Contributors:** [AmithS01](https://github.com/AmithS01), [Mrtechtroid](https://github.com/mrtechtroid)   
+### Automation Instagram Login
+**1. Category:** Automation
+**2. Modules Required:** selenium
+**3. Uploaded On:** Spetember 05, 2020
+**4. What It Does?** It automates the login to instagram.
+**5. How To Use?** Make a file named "logincred.txt" and add your username in first line and password in the next line and then save the file. Then run the program. 
