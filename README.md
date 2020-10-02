@@ -1,15 +1,18 @@
 # Python
 They are a set of tools which could be used by anyone. A collection of Python scripts, codes and apps which are some good tools and projects for developers.  
 ## Index Of Apps
-1. [Amazon Book Price Scraper](https://github.com/mrtechtroid/python/blob/master/DESCRIPTION.md#amazon-book-price-scraper)
-2. [Covid 19 Analytics](https://github.com/mrtechtroid/python/blob/master/DESCRIPTION.md#covid-19-analytics)
-3. [Open Paint](https://github.com/mrtechtroid/python/blob/master/DESCRIPTION.md#open-paint)
-4. [URL Extract](https://github.com/mrtechtroid/python/blob/master/DESCRIPTION.md#url-extract)
-5. [Eye-Protect](https://github.com/mrtechtroid/python/blob/master/DESCRIPTION.md#eye-protect) 
-6. [Simple Calculator](https://github.com/mrtechtroid/python/blob/master/DESCRIPTION.md#simple-calculator)
-7. [Zoom Chat Bot](https://github.com/mrtechtroid/python/blob/master/DESCRIPTION.md#zoom-chat-bot)
-8. [Simple Temperature Calculator](https://github.com/mrtechtroid/python/blob/master/DESCRIPTION.md#simple-temperature-calculator)
-9. [Automation Instagram Login](https://github.com/mrtechtroid/python/blob/master/DESCRIPTION.md#automation-instagram-login) 
+| Sr No. | Name  | Details | File Location |
+| ------------- | ------------- | --------- | -------- |
+| 1.  | Amazon Book Price Scraper         |[Click Here](https://github.com/mrtechtroid/python/blob/master/DESCRIPTION.md#amazon-book-price-scraper)      |[Click Here](https://github.com/mrtechtroid/python/blob/master/Amazon-Book-Price-Scraper.py)          |        
+| 2.  | Covid 19 Analytics                |[Click Here](https://github.com/mrtechtroid/python/blob/master/DESCRIPTION.md#covid-19-analytics)             |[Click Here](https://github.com/mrtechtroid/python/blob/master/Covid19-Analytics.py)                  |  
+| 3.  | Open Paint                        |[Click Here](https://github.com/mrtechtroid/python/blob/master/DESCRIPTION.md#open-paint)                     |[Click Here](https://github.com/mrtechtroid/python/blob/master/openpaint.py)                          |        
+| 4.  | URL Extract                       |[Click Here](https://github.com/mrtechtroid/python/blob/master/DESCRIPTION.md#url-extract)                    |[Click Here](https://github.com/mrtechtroid/python/blob/master/urlextract.py)                         |  
+| 5.  | Eye-Protect                       |[Click Here](https://github.com/mrtechtroid/python/blob/master/DESCRIPTION.md#eye-protect)                    |[Click Here](https://github.com/mrtechtroid/python/blob/master/Eye-Protect.pyw)                       |
+| 6.  | Simple Calculator                 |[Click Here](https://github.com/mrtechtroid/python/blob/master/DESCRIPTION.md#simple-calculator)              |[Click Here](https://github.com/mrtechtroid/python/blob/master/Simple-Calculator.py)                  |  
+| 7.  | Zoom Chat Bot                     |[Click Here](https://github.com/mrtechtroid/python/blob/master/DESCRIPTION.md#zoom-chat-bot)                  |[Click Here](https://github.com/mrtechtroid/python/blob/master/Zoom-Chat-Bot.py)                      |        
+| 8.  | Simple Temperature Calculator     |[Click Here](https://github.com/mrtechtroid/python/blob/master/DESCRIPTION.md#simple-temperature-calculator)  |[Click Here](https://github.com/mrtechtroid/python/blob/master/Simple-Temp-Calc.py)                   |  
+| 9.  | Automation Instagram Login        |[Click Here](https://github.com/mrtechtroid/python/blob/master/DESCRIPTION.md#automation-instagram-login)     |[Click Here](https://github.com/mrtechtroid/python/blob/master/Automation-Instagram-Login.py)         |        
+| 10. | Coming Soon                       | Coming Soon                                                                                                  | Coming Soon                                                                                          |  
 ## Information  
 1. **License:**  [Click Here](https://github.com/mrtechtroid/python/blob/master/LICENSE)
 2. **Updated On:** 08th September 2020(Indian Standard Time)
