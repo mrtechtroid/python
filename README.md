@@ -1,5 +1,5 @@
 # Python
-1. They are a set of tools which could be used by anyone. A collection of Python scripts, codes and apps which are some good tools and projects for developers.   
+1. **About:** They are a set of tools which could be used by anyone. A collection of Python scripts, codes and apps which are some good tools and projects for developers.   
 2. **License:**  MIT LICENSE [View License](https://github.com/mrtechtroid/python/blob/master/LICENSE)
 3. **Updated On:** 15th December 2020(Indian Standard Time)
 4. **Created On:** 12th August 2020(IST)
